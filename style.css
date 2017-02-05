@@ -1,0 +1,34 @@
+.item{
+	width: 10%;
+	padding: 1%;
+	float: left;
+	font-family: cursive;
+	
+	color:darkblue;
+}
+.clearfix{
+	clear: both;
+}
+input{
+	transform: scale(1.5);
+}
+button{
+	background-color: #0095ff;
+	padding: 1%;
+	border-radius: 5%;
+	border: none;
+	color: white;
+	font-size:120%;
+	margin-left: 45%;
+	margin-top: 3%;
+
+}
+h2{
+	color: #0077dd;
+	font-family: cursive;
+}
+
+h3{
+	color: #45a163;
+
+}
